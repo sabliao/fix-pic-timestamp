@@ -1,0 +1,4 @@
+# Fix Pic Timestamp
+
+## What is this?
+This is my first project for the [100 Days of Code](https://github.com/Kallaway/100-days-of-code) challenge. I decided to start w/ a simpler project (it'll end up just being one script), one that I came up w/ when I was frustrated that some of the pictures from a Thanksgiving backpacking trip I did w/ college friends didn't retain their 'true' timestamp when uploaded to the Dropbox folder we shared. This made it hard to show others a full view of the trip in chronological order. Thankfully, the filenames seem to store the information for when the pictures were taken, so I want to write a script that will parse the filenames and set the timestamp retrieved from that data as the value for the date modified field. Hopefully this will allow me to view all the different pictures (from different people) in chronological order.
